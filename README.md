@@ -96,3 +96,14 @@ Accuracy:
 Execution Price, Fee, and Trade Size have a stronger influence on profitability than sentiment alone.
 
 The Fear & Greed Index can improve trading decisions when combined with other trading indicators.
+## Dataset
+
+The historical trading dataset is not included in this repository because of its large size.
+
+Download the datasets from the original assignment links:
+
+### Historical Trader Data
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+### Bitcoin Fear & Greed Index
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
